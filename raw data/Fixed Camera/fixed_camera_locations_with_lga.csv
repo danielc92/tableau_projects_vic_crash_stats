@@ -1,0 +1,288 @@
+row_index,location_long,location_short,longitude,latitude,lga_code
+0,"Scoresby Road at the intersection of Scoresby Road and Mountain Highway, Bayswater",Bayswater,145.2710514,-37.83890391,23670
+1,"Blackshaws Road at the intersection of Blackshaws Road and Millers Road, Altona North",Altona North,144.8480751,-37.83118674,23110
+2,"Warrigal Road at the intersection of Warrigal Road and Centre Dandenong Road, Cheltenham",Cheltenham,145.0742497,-37.96751724,23430
+3,"Western Ring Road, Northbound Keilor Park Drive Bridge, Keilor East",Western Ring Road Keilor East,144.850992,-37.73826007,21180
+4,"Western Ring Road, Northbound Western Highway Off Ramp / South Side Gantry, Deer Park",Western Ring Road Deer Park,144.7938475,-37.77496138,21180
+5,"Johnston Street at the intersection of Johnston Street and Wellington Street, Collingwood",Collingwood,144.9872012,-37.79924925,27350
+6,"Hume Freeway, Southbound 65m south of Amaroo Road, Craigieburn",Hume Freeway Craigieburn,144.9444133,-37.5844842,23270
+7,"Bell Street at the intersection of Bell Street and Gilbert Road, Preston",Preston,144.989013,-37.743722,21890
+8,"Gilbert Road at the intersection of Gilbert Road and Murray Road, Preston",Preston,144.990488,-37.736385,21890
+9,"Harding Street at the intersection of Harding Street and Sydney Road, Coburg",Coburg,144.9660762,-37.7450543,25250
+10,"Western Ring Road, Southbound, Fullarton Road Bridge, Keilor Park",Western Ring Road Keilor Park,144.862085,-37.726065,21180
+11,"Bayswater Road at the intersection of Bayswater Road and Mountain Highway, Bayswater",Bayswater,145.270876,-37.839157,23670
+12,Nicholson Street,East Melbourne,144.9728528,-37.80940252,24600
+13,"High Street at the intersection of High Street and Stephensons Road, Mount Waverley",Mount Waverley,145.13036,-37.870178,24970
+14,"Blackburn Road at the intersection of Blackburn Road and High Street, Mount Waverley",Mount Waverley,145.148599,-37.871932,24970
+15,"Blackburn Road at the intersection of Blackburn Road and Monash Freeway, Mount Waverley",Mount Waverley,145.144018,-37.895404,24970
+16,"Church Street at the intersection of Church Street and Shannon Avenue, Geelong West",Geelong West,144.338537,-38.130666,22750
+17,"Nepean Highway at the intersection of Nepean Highway and Highett Road, Highett",Highett,145.045999,-37.948766,23430
+18,"Nepean Highway at the intersection of Nepean Highway and Highett Road, Highett",Highett,145.046173,-37.949365,23430
+19,"Glen Eira Road at the intersection of Glen Eira Road and Kooyong Road, Caulfield North",Caulfield North,145.01657,-37.879291,22310
+20,"Glen Eira Road at the intersection of Glen Eira Road and Hotham Street, StKilda East",St Kilda East,144.998245,-37.877038,22310
+21,"Bay Street at the intersection of Bay Street and St Kilda Street, Brighton",Brighton,144.988697,-37.903938,20910
+22,"Monash Freeway, Northbound approximately 290m south of High Street, Glen Iris",Glen Iris,145.060078,-37.862776,26350
+23,"Glenferrie Road at the intersection of Glenferrie Road and Wellington Street, Kew",Kew,145.037599,-37.810199,21110
+24,"Charles Street at the intersection of Charles Street and Cotham Road, Kew",Kew,145.035324,-37.80747,21110
+25,"Chandler Highway at the intersection of Chandler Highway and Eastern Freeway, Kew",Kew,145.027546,-37.790676,21110
+26,"Manningham Road at the intersection of Manningham Road and Macedon Road, Templestowe Lower",Templestowe Lower,145.112046,-37.77336494,24210
+27,"Balwyn Road at the intersection of Balwyn Road and Whitehorse Road, Balwyn",Balwyn,145.081179,-37.812988,21110
+28,"Canterbury Road at the intersection of Canterbury Road and Warrigal Road, Surrey Hills",Surrey Hills,145.099643,-37.826116,26980
+29,"Kooyong Road at the intersection of Kooyong Road and Malvern Road, Armadale",Armadale,145.021183,-37.850696,26350
+30,"Centre Road at the intersection of Centre Road and Huntingdale Road, Oakleigh South",Oakleigh South,145.1004481,-37.92622865,24970
+31,"Ferntree Gully Road at the intersection of Ferntree Gully Road and Clayton Road, Oakleigh",Oakleigh,145.124202,-37.899138,24970
+32,"Peninsula Link Freeway and Mornington-Tyabb Road Bridge Southbound, Moorooduc",Peninsula Link Moorooduc,145.118008,-38.251999,25340
+33,"Peninsula Link Freeway and Eramosa Road West Bridge Northbound, Moorooduc",Peninsula Link Moorooduc,145.129019,-38.216785,25340
+34,"Peninsula Link Freeway and Skye Road Bridge Northbound, Frankston",Peninsula Link Frankston,145.172941,-38.141498,22170
+35,"Peninsula Link Freeway and Skye Road Bridge Southbound, Frankston",Peninsula Link Frankston,145.173233,-38.141188,22170
+36,"Peninsula Link Freeway and Loders Road Bridge Northbound, Moorooduc",Peninsula Link Moorooduc,145.106524,-38.263141,25340
+37,"Burwood Highway at the intersection of Burwood Highway and Blackburn Road, Burwood East",Burwood East,145.152279,-37.852713,26980
+38,"Warrigal Road at the intersection of Warrigal Road and Highbury Road, Burwood",Burwood,145.095255,-37.853136,26980
+39,"Lightwood Road at the intersection of Lightwood Road and Corrigan Road, Noble Park",Noble Park,145.1689625,-37.96154235,22670
+40,"At the intersection of McIvor Road and Reservoir Road, Strathdale",Strathdale,144.317646,-36.759624,22620
+41,"Swan Street at the intersection of Swan Street and Batman Avenue, Melbourne",Melbourne,144.9788582,-37.8234052,24600
+42,"St Kilda Road at the intersection of St Kilda Road and Kings Way, Melbourne",Melbourne,144.9755591,-37.83645729,25900
+43,"William Street at the intersection of William Street and Flinders Street, Melbourne",Melbourne,144.9601076,-37.81978269,24600
+44,"Johnston Street at the intersection of Johnston Street and Hoddle Street, Collingwood",Collingwood,144.992622,-37.799731,27350
+45,"Epsom Road at the intersection of Epsom Road and Smithfield Road, Kensington",Kensington,144.9228403,-37.78903312,24600
+46,"Royal Parade at the intersection of Royal Parade and Cemetery Road West, Carlton North",Carlton North,144.958978,-37.78976,24600
+47,"St Georges Road at the intersection of St Georges Road and Normanby Avenue, Thornbury",Thornbury,144.993535,-37.758518,21890
+48,"Melville Road at the intersection of Melville Road and Albion Street, Brunswick West",Brunswick West,144.945006,-37.758461,25250
+49,"Nicholson Street at the intersection of Nicholson Street and Glenlyon Road, Brunswick",Brunswick,144.979309,-37.773259,25250
+50,"Nepean Highway at the intersection of Nepean Highway and Centre Road, Brighton East",Brighton East,145.018179,-37.916187,20910
+51,"Waverley Road at the intersection of Waverley Road and Blackburn Road, Glen Waverley",Glen Waverley,145.146067,-37.886853,24970
+52,"Springvale Road at the intersection of Springvale Road and High Street Road, Glen Waverley",Glen Waverley,145.1669025,-37.87423093,24970
+53,"Settlement Road  at the intersection of Settlement Road and Torquay Road, Belmont",Belmont,144.344462,-38.18229,22750
+54,"Balaclava Road at the intersection of Balaclava Road and Kooyong Road, Caulfield North",Caulfield North,145.017933,-37.871915,22310
+55,"Victoria Street at the intersection of Victoria Street and Swanston Street, Carlton",Carlton,144.962705,-37.806577,24600
+56,"Heidelberg Road at the intersection of Heidelberg Road and Station Street, Fairfield",Fairfield,145.017761,-37.783452,27350
+57,"Warrigal Road at the intersection of Warrigal Road and Batesford Road, Chadstone",Chadstone,145.091597,-37.875268,26350
+58,"Myrtle Street at the intersection of Myrtle Street and High Street, Bendigo",Bendigo,144.270777,-36.76367,22620
+59,"Wellington Road at the intersection of Wellington Road and Blackburn Road, Clayton",Clayton,145.139705,-37.916178,24970
+60,"Toorak Road at the intersection of Toorak Road and Burke Road, Camberwell",Camberwell,145.054325,-37.8458,21110
+61,"Shannon Avenue at the intersection of Shannon Avenue and Aphrasia Street, Newtown",Newtown,144.334557,-38.150047,22750
+62,"Nepean Highway at the intersection of Nepean Highway and Davey Street, Frankston",Frankston,145.1198418,-38.14538394,22170
+63,"Gaffney Street at the intersection of Gaffney Street and Sydney Road, Coburg",Coburg,144.965533,-37.73403465,25250
+64,"Warrigal Road at the intersection of Warrigal Road and Batesford Road, Chadstone",Chadstone,145.0916854,-37.87535305,24970
+65,"Raglan Parade at the intersection of Raglan Parade and Mahoneys Road, Warrnambool",Warrnambool,142.5330162,-38.38484541,26730
+66,"Sussex Street at the intersection of Sussex Street and O'Hea Street, Pascoe Vale South",Pascoe Vale South,144.9489999,-37.73610921,25250
+67,"Princes Highway at the intersection of Princes Highway and Huntingdale Road, Oakleigh East",Oakleigh East,145.1052426,-37.90058149,24970
+68,"Princes Highway at the intersection of Princes Highway and Elonera Road, Noble Park North",Noble Park North,145.18843,-37.96148102,22670
+69,"Princes Freeway, Avalon Road Bridge, Melbourne Bound, Lara",Princes Freeway Lara,144.4304109,-38.0304054,22750
+70,"Princes Street at the intersection of Princes Street and Rathdowne Street, Carlton",Carlton,144.9715264,-37.79264708,24600
+71,"Princes Freeway, Forsyth Road Bridge, Melbourne Bound, Williams Landing",Princes Freeway Williams Landing,144.7369149,-37.87328452,27260
+72,"Nepean Highway at the intersection of Nepean Highway and Bungower Road, Mornington",Mornington,145.0568837,-38.22026231,25340
+73,"Princes Freeway, Avalon Road Bridge, Geelong Bound, Avalon",Princes Freeway Avalon,144.4308186,-38.03059977,22750
+74,"Hume Freeway, Southbound Mount Fraser, Beveridge",Hume Freeway Beveridge,144.9724638,-37.46042015,24850
+75,"Hume Highway at the intersection of Hume Highway and Somerton Road, Campbellfield",Campbellfield,144.951269,-37.64359294,23270
+76,"Alexandra Parade at the intersection of Alexandra Parade and Brunswick Street, Fitzroy",Fitzroy,144.9794456,-37.79340377,27350
+77,"Hume Freeway, Southbound Station Street, Wallan East",Hume Freeway Wallan East,145.0054657,-37.41070269,24850
+78,"Hume Freeway, Northbound Mount Fraser, Beveridge",Hume Freeway Beveridge,144.9721742,-37.46027963,24850
+79,"West Gate Freeway, Millers Road Gantry, Geelong (West) Bound, Altona North",West Gate Freeway Altona North,144.8534247,-37.82477704,23110
+80,"West Gate Freeway, Grieve Parade Bridge, Melbourne Bound, Altona North",West Gate Freeway Altona North,144.8295987,-37.82549738,23110
+81,"Monash Freeway, Southbound approximately 470m south of High Street, Glen Iris",Glen Iris,145.060628,-37.864172,26350
+82,"Duke Street at the intersection of Duke Street and Ballarat Road, Braybrook",Braybrook,144.8472396,-37.7788919,24330
+83,"St Kilda Road at the intersection of St Kilda Road and Fitzroy Street, St Kilda",St Kilda,144.982675,-37.85696714,25900
+84,"Highbury Road at the intersection of Highbury Road and Huntingdale Road, Mount Waverley",Mount Waverley,145.113878,-37.85547519,26980
+85,"Denmark Street at the intersection of Denmark Street and High Street South, Kew",Kew,145.0288318,-37.80775491,21110
+86,"Mt Dandenong Road at the intersection of Mt Dandenong Road and Dorset Road, Croydon",Croydon,145.2900723,-37.79981407,24410
+87,"Hoddle Street at the intersection of Hoddle Street and Johnston Street, Collingwood",Collingwood,144.9929358,-37.79999103,27350
+88,"Hoddle Street at the intersection of Hoddle Street and Wellington Parade, East Melbourne",East Melbourne,144.9898607,-37.81765168,24600
+89,"St Georges Road at the intersection of St Georges Road and Normanby Avenue, Thornbury",Thornbury,144.9931008,-37.75888943,21890
+90,"Heatherton Road at the intersection of Heatherton Road and Monash Freeway, Doveton",Doveton,145.2367714,-37.97254228,21610
+91,"Heatherton Road at the intersection of Heatherton Road and Monash Freeway, Endeavour Hills",Endeavour Hills,145.2381018,-37.97252537,21610
+92,"Wells Road at the intersection of Wells Road and Palm Grove Boulevard, Aspendale Gardens",Aspendale Gardens,145.118471,-38.019049,23430
+93,"Wells Road at the intersection of Wells Road and Nurten Parade, Aspendale Gardens",Aspendale Gardens,145.124242,-38.022193,23430
+94,"Princes Highway at the intersection of Princes Highway and Sparks Road, Norlane",Norlane,144.3563309,-38.09161737,22750
+95,"Frankston Freeway off ramp at the intersection of Frankston Freeway off ramp and Dandenong-Frankston Road, Seaford",Seaford,145.1339489,-38.12833579,22170
+96,"Canterbury Road at the intersection of Canterbury Road and Bayswater Road, Bayswater North",Bayswater North,145.2691148,-37.83227456,24410
+97,"Hume Freeway, Northbound 101m south of Broadford-Flowerdale Road, Broadford",Hume Freeway Broadford,145.0684816,-37.20735864,24850
+98,"Hume Freeway, Southbound 109m south of Broadford-Flowerdale Road, Broadford",Hume Freeway Broadford,145.0686479,-37.20780298,24850
+99,"Princes Freeway, Point Wilson Road Bridge, Geelong Bound, Point Wilson",Princes Freeway Point Wilson,144.5335793,-37.98195711,22750
+100,"Dandenong-Frankston Road at the intersection of Dandenong-Frankston Road and Skye Road, Frankston",Frankston,145.1341809,-38.12849403,22170
+101,"Doncaster Road at the intersection of Doncaster Road and Gardenia Road, Balwyn North",Balwyn North,145.0995469,-37.78989583,21110
+102,"Gilbert Road at the intersection of Gilbert Road and Bell Street, Preston",Preston,144.9892786,-37.74361573,21890
+103,"Warrigal Road at the intersection of Warrigal Road and North Road, Oakleigh",Oakleigh,145.0850201,-37.90932729,24970
+104,"Maroondah Highway, approximately 100 metres West of Hutchinson Street, Lilydale",Lilydale,145.34706,-37.756875,27450
+105,"Centre Road at the intersection of Centre Road and Buckland Street, Clayton",Clayton,145.1316664,-37.93009188,24970
+106,"Princes Highway at the intersection of Princes Highway and Webb Street, Narre Warren",Narre Warren,145.3052482,-38.02542024,21610
+107,"Exhibition Street at the intersection of Exhibition Street and Victoria Street, Melbourne",Melbourne,144.9687597,-37.80744657,24600
+108,"LaTrobe Street at the intersection of LaTrobe Street and Spencer Street, West Melbourne",West Melbourne,144.951031,-37.813194,24600
+109,"Flemington Road at the intersection of Flemington Road and Gatehouse Street, Parkville",Parkville,144.9511161,-37.79638485,24600
+110,"Burwood Highway at the intersection of Burwood Highway and Brenock Park Drive, Ferntree Gully",Ferntree Gully,145.2948815,-37.88872406,23670
+111,"Bell Street at the intersection of Bell Street and St Georges Road, Preston",Preston,144.9973574,-37.74453198,21890
+112,"Dandenong Road at the intersection of Dandenong Road and Clayton Road, Oakleigh East",Oakleigh East,145.1221325,-37.91115991,24970
+113,"Burke Road at the intersection of Burke Road and Old Burke Road, Kew East",Kew East,145.064898,-37.787505,21110
+114,"King Street at the intersection of King Street and Hawke Street, West Melbourne",West Melbourne,144.9487934,-37.80563256,24600
+115,"Springvale Road at the intersection of Springvale Road and Lower Dandenong Road, Braeside",Braeside,145.1442277,-37.99105364,23430
+116,"Waverley Road at the intersection of Waverley Road and Blackburn Road, Mount Waverley",Mount Waverley,145.1455106,-37.88668977,24970
+117,"Greensborough Highway at the intersection of Greensborough Highway and Grimshaw Street, Greensborough",Greensborough,145.089865,-37.703029,20660
+118,"Greensborough Highway at the intersection of Greensborough Highway and Grimshaw Street, Watsonia",Watsonia,145.089557,-37.703365,20660
+119,"High Street Road at the intersection of High Street Road and Stud Road, Wantirna South",Wantirna South,145.2326891,-37.87691976,23670
+120,"City Road at the intersection of City Road and Montague Street, South Melbourne",South Melbourne,144.9518484,-37.83282323,25900
+121,"Centre Road at the intersection of Centre Road and Springs Road, Clayton South",Clayton South,145.1100424,-37.92747481,23430
+122,"Glen Eira Road at the intersection of Glen Eira Road and Kooyong Road, Caulfield",Caulfield,145.0164092,-37.87920202,22310
+123,"Hallam Road at the intersection of Hallam Road and Fordholm Road, Hampton Park",Hampton Park,145.2671233,-38.03580112,21610
+124,"Munro Street at the intersection of Munro Street and Sydney Road, Coburg",Coburg,144.9658066,-37.74494875,25250
+125,"Hume Freeway, Northbound 65m south of O'Herns Road, Epping",Hume Freeway Epping,144.9932832,-37.63438871,27070
+126,"Fifteenth Street at the intersection of Fifteenth Street and San Mateo Avenue, Mildura",Mildura,142.1413064,-34.21081288,24780
+127,"Hume Freeway, Northbound 66m south of Amaroo Road, Craigieburn",Hume Freeway Craigieburn,144.9439949,-37.58415474,23270
+128,"Hume Freeway, Northbound Station Street, Wallan East",Hume Freeway Wallan East,145.0056696,-37.41028086,24850
+129,"South Gippsland Highway at the intersection of South Gippsland Highway and Lynbrook Boulevard, Lynbrook",Lynbrook,145.2575076,-38.05064259,21610
+130,"Sydney Road at the intersection of Sydney Road and Mahoneys Road, Campbellfield",Campbellfield,144.9581409,-37.68937944,23270
+131,"Gladstone Road at the intersection of Gladstone Road and Heatherton Road, Dandenong North",Dandenong North,145.2051026,-37.96876164,22670
+132,"Victoria Street at the intersection of Victoria Street and Doncaster Road, Doncaster",Doncaster,145.1438382,-37.78681379,24210
+133,"Alexandra Parade at the intersection of Alexandra Parade and George Street, Fitzroy North",Fitzroy North,144.9826039,-37.79344828,27350
+134,"Geelong Road at the intersection of Geelong Road and Droop Street, Footscray",Footscray,144.8967826,-37.79650672,24330
+135,"St Kilda Road at the intersection of St Kilda Road and Union Street, Melbourne",Melbourne,144.9818596,-37.85318267,25900
+136,"Shannon Avenue at the intersection of Shannon Avenue and Noble Street, Newtown",Newtown,144.334192,-38.15251446,22750
+137,"Cemetery Road West at the intersection of Cemetery Road West and Royal Parade, Parkville",Parkville,144.9590233,-37.78995412,24600
+138,"Royal Parade at the intersection of Royal Parade and Gatehouse Street, Parkville",Parkville,144.9583635,-37.79270749,24600
+139,"Wyndham Street at the intersection of Wyndham Street and High Street, Shepparton",Shepparton,145.3992194,-36.38117516,22830
+140,"Latrobe Terrace at the intersection of Latrobe Terrace and Fyans Street, South Geelong",South Geelong,144.3502986,-38.16028225,22750
+141,"High Street at the intersection of High Street and Verene Avenue, Templestowe Lower",Templestowe Lower,145.1184028,-37.76805596,24210
+142,"At the intersection of Narre Warren North Road and Ernst Wanke Road, Narre Warren North",Narre Warren North,145.312807,-37.996561,21610
+143,"Hoddle Street at the intersection of Hoddle Street and Victoria Street, Abbotsford",Abbotsford,144.9915263,-37.80948198,27350
+144,"Macauley Road at the intersection of Macauley Road and Stubbs Street, Kensington",Kensington,144.934964,-37.79501,24600
+145,"Williamstown Road at the intersection of Williamstown Road and Somerville Road, Yarraville",Yarraville,144.8835245,-37.81271988,24330
+146,"Western Ring Road, Eastbound West of Sydney Road, Broadmeadows",Western Ring Road Broadmeadows,144.940392,-37.692822,23270
+147,"Western Ring Road, Glenroy, Westbound, approximately 600 metres West of Sydney Road","Western Ring Road, Glenroy",144.951528,-37.692194,23270
+148,"At the intersection of Francis Street and Wembley Avenue, Yarraville",Yarraville,144.873922,-37.819301,24330
+149,"At the intersection of Francis Street and Wembley Avenue, Yarraville",Yarraville,144.874239,-37.819404,24330
+150,"Elizabeth Street at the intersection of Elizabeth Street and Victoria Street, Melbourne",Melbourne,144.9596107,-37.80609454,24600
+151,"Hall Road at the intersection of Hall Road and Dandenong-Frankston Road, Carrum Downs",Carrum Downs,145.1728946,-38.09959533,22170
+152,"Nepean Highway at the intersection of Nepean Highway and Main Street, Mornington",Mornington,145.044626,-38.22949567,25340
+153,"Elgar Road at the intersection of Elgar Road and Arnold Street, Box Hill",Box Hill,145.1156214,-37.81382493,26980
+154,"EastLink, Mullum Mullum Tunnel, approximately 600m prior to tunnel exit, Donvale",EastLink Donvale,145.209775,-37.80663069,24210
+155,"EastLink, Melba Tunnel, approximately 500m prior to tunnel exit, Donvale",EastLink Donvale,145.1979733,-37.80259568,24210
+156,"Western Ring Road, Southbound Western Highway North Side Gantry, Ardeer",Western Ring Road Ardeer,144.7989249,-37.76801355,21180
+157,"Whitehorse Road at the intersection of Whitehorse Road and Elgar Road, Box Hill",Box Hill,145.1152244,-37.81699907,26980
+158,"Whitehorse Road at the intersection of Whitehorse Road and Burke Road, Balwyn",Balwyn,145.0608695,-37.81041332,21110
+159,"Loddon Valley Highway at the intersection of Loddon Valley Highway and Calder Highway, Ironbark",Ironbark,144.2637759,-36.75570381,22620
+160,"Western Ring Road, Southbound Boundary Road, North Side Gantry, Sunshine West",Western Ring Road Sunshine West,144.808141,-37.81235223,21180
+161,"At the intersection of Springvale Road and Canterbury Road, Forest Hill",Forest Hill,145.172888,-37.834568,26980
+162,"At the intersection of Murray Road and Elizabeth Street, Coburg",Coburg,144.983032,-37.735994,21890
+163,"Alexandra Parade at the intersection of Alexandra Parade and Smith Street, Fitzroy North",Fitzroy North,144.9850273,-37.7937111,27350
+164,"Stud Road at the intersection of Stud Road and Wellington Road, Rowville",Rowville,145.2330914,-37.92781861,23670
+165,"High Street at the intersection of High Street and Summerhill Road, Glen Iris",Glen Iris,145.0744736,-37.86274407,21110
+166,"Princes Highway at the intersection of Princes Highway and Fitzgerald Road, Hallam",Hallam,145.2784556,-38.00865582,21610
+167,"At the intersection of Plenty Road and Kingsbury Drive, Bundoora",Bundoora,145.043196,-37.716897,21890
+168,"At the intersection of Plenty Road and Dunne Street, Kingsbury",Kingsbury,145.042777,-37.717054,21890
+169,"High Street Road at the intersection of High Street Road and Huntingdale Road, Mount Waverley",Mount Waverley,145.1118743,-37.86797637,24970
+170,"Grimshaw Street at the intersection of Grimshaw Street and Macorna Street, Watsonia North",Watsonia North,145.0840116,-37.70249552,20660
+171,"Union Road at the intersection of Union Road and Mont Albert Road, Surrey Hills",Surrey Hills,145.0983694,-37.820368,21110
+172,"Maribyrnong Road at the intersection of Maribyrnong Road and Mt Alexander Road, Moonee Ponds",Moonee Ponds,144.9267429,-37.77273844,25060
+173,"Burwood Highway at the intersection of Burwood Highway and Springvale Road, Vermont South",Vermont South,145.1695821,-37.85499869,26980
+174,"Mountain Highway at the intersection of Mountain Highway and Wantirna Road, Wantirna",Wantirna,145.2271155,-37.84886851,23670
+175,"Peninsula Link Freeway and Eramosa Road West Bridge Southbound, Moorooduc",Peninsula Link Moorooduc,145.129346,-38.216577,25340
+176,"Terminal Drive at the intersection of Terminal Drive and Centre Road, Melbourne Airport",Melbourne Airport,144.8522224,-37.67305432,23270
+177,"At the intersection of Moorabool Street and Fyans Street, South Geelong",South Geelong,144.354006,-38.161811,22750
+178,"At the intersection of Princes Highway and Station Street, Corio",Corio,144.369064,-38.075386,22750
+179,"Burwood Highway at the intersection of Burwood Highway and Stud Road, Wantirna South",Wantirna South,145.2349931,-37.86884874,23670
+180,"At the intersection of Settlement Road and Torquay Road, Belmont",Belmont,144.344643,-38.182323,22750
+181,"Stud Road at the intersection of Stud Road and Heatherton Road, Dandenong",Dandenong,145.2233818,-37.97116685,22670
+182,"Seymour Grove at the intersection of Seymour Grove and Camberwell Road, Camberwell",Camberwell,145.0620268,-37.83607705,21110
+183,"Nicholson Street at the intersection of Nicholson Street and Elgin Street, Carlton",Carlton,144.9747625,-37.79810266,24600
+184,"At the intersection of North Road and Clayton Road, Oakleigh East",Oakleigh East,145.121705,-37.913625,24970
+185,"Fitzroy Street at the intersection of Fitzroy Street and Lakeside Drive, St Kilda",St Kilda,144.980198,-37.85800164,25900
+186,"Middleborough Road at the intersection of Middleborough Road and Eastern Freeway, Box Hill North",Box Hill North,145.1421002,-37.79885823,26980
+187,"Nepean Highway at the intersection of Nepean Highway and Karen Street, Highett",Highett,145.0518841,-37.95728001,23430
+188,"York Street at the intersection of York Street and MacArthur Street, Sale",Sale,147.068063,-38.10503133,26810
+189,"At the intersection of Barkers Road and Glenferrie Road, Hawthorn",Hawthorn,145.036965,-37.814747,21110
+190,"Williamsons Road at the intersection of Williamsons Road and Doncaster Road, Doncaster",Doncaster,145.1248482,-37.78719534,24210
+191,"At the intersection of Brighton Road and Glen Eira Road, Ripponlea",Ripponlea,144.992417,-37.876144,25900
+192,"EastLink Northbound, Wellington Road Bridge, Rowville",EastLink Rowville,145.2129507,-37.92537812,23670
+193,"Peninsula Link Freeway and Eramosa Road West Bridge Northbound, Moorooduc",Peninsula Link Moorooduc,145.128987,-38.216572,25340
+194,"Peninsula Link Freeway and Loders Road Bridge Northbound, Moorooduc",Peninsula Link Moorooduc,145.106703,-38.262989,25340
+195,"Peninsula Link Freeway and Mornington-Tyabb Road Bridge Southbound, Moorooduc",Peninsula Link Moorooduc,145.117899,-38.252096,25340
+196,"Dandenong Road at the intersection of Dandenong Road and Warrigal Road, Malvern East",Malvern East,145.0879973,-37.89290253,26350
+197,"Kings Way at the intersection of Kings Way and Park Street, South Melbourne",South Melbourne,144.9677485,-37.83324692,25900
+198,"Park Road at the intersection of Park Road and Charman Road, Cheltenham",Cheltenham,145.0558162,-37.96545235,23430
+199,"Fitzroy Street at the intersection of Fitzroy Street and Princes Street, St Kilda",St Kilda,144.9806714,-37.85798576,25900
+200,"Prospect Hill Road at the intersection of Prospect Hill Road and Burke Road, Camberwell",Camberwell,145.0574416,-37.8281954,21110
+201,"Princes Highway at the intersection of Princes Highway and South Gippsland Freeway, Eumemmerring",Eumemmerring,145.2513921,-38.00347684,21610
+202,"CityLink, Burnley Tunnel approximately 430 metres after tunnel entrance, Southbank",CityLink Burnley Tunnel Southbank,144.9700499,-37.82497196,24600
+203,"CityLink, Burnley Tunnel approximately 2140 metres after tunnel entrance, Cremorne",CityLink Burnley Tunnel Cremorne,144.9885893,-37.82524314,24600
+204,"Peninsula Link Freeway and Eramosa Road West Bridge Southbound, Moorooduc",Peninsula Link Moorooduc,145.129323,-38.216401,25340
+205,"Peninsula Link Freeway and Skye Road Bridge Southbound, Frankston",Peninsula Link Frankston,145.173254,-38.141394,22170
+206,"Peninsula Link Freeway and Skye Road Bridge Northbound, Frankston",Peninsula Link Frankston,145.172879,-38.141341,22170
+207,"Glen Iris Road at the intersection of Glen Iris Road and Toorak Road, Camberwell",Camberwell,145.0685915,-37.84722919,21110
+208,"Somerville Road at the intersection of Somerville Road and Geelong Road, Yarraville",Yarraville,144.8698962,-37.81131391,24330
+209,"EastLink Southbound, Wellington Road Bridge, Rowville",EastLink Rowville,145.2132833,-37.92557277,23670
+210,"Albert Street at the intersection of Albert Street and Gower Street, Preston",Preston,145.0225353,-37.74265704,21890
+211,"EastLink Northbound, Dandenong Bypass Bridge, Keysborough",EastLink Keysborough,145.1912999,-38.00115934,22670
+212,"Gordon Street at the intersection of Gordon Street and Barkly Street, Footscray",Footscray,144.8881298,-37.79870033,24330
+213,"Thomas Street at the intersection of Thomas Street and North Road, Brighton East",Brighton East,145.0259162,-37.90233179,20910
+214,"Station Street at the intersection of Station Street and Thames Street, Box Hill",Box Hill,145.1247114,-37.81379738,26980
+215,"St Georges Road at the intersection of St Georges Road and Arthurton Road, Northcote",Northcote,144.9916068,-37.76832311,21890
+216,"Peel Street at the intersection of Peel Street and Victoria Street, West Melbourne",West Melbourne,144.9558368,-37.80600977,24600
+217,"Heatherton Road at the intersection of Heatherton Road and Corrigan Road, Noble Park",Noble Park,145.1686835,-37.96448597,22670
+218,"EastLink Southbound, Dandenong Bypass Bridge, Keysborough",EastLink Keysborough,145.1917398,-38.00121852,22670
+219,"Punt Road at the intersection of Punt Road and Toorak Road, South Yarra",South Yarra,144.9864516,-37.83844213,24600
+220,"Geelong Street at the intersection of Geelong Street and Geelong Road, Kingsville",Kingsville,144.8828767,-37.80418407,24330
+221,"Boronia Road at the intersection of Boronia Road and Wantirna Road, Wantirna",Wantirna,145.2274051,-37.84773434,23670
+222,"Dandenong Road at the intersection of Dandenong Road and Orrong Road, Caulfield North",Caulfield North,145.0106773,-37.86036601,22310
+223,"Lonsdale Street at the intersection of Lonsdale Street and Webster Street, Dandenong",Dandenong,145.2160245,-37.99295398,22670
+224,"Barry Road at the intersection of Barry Road and King Street, Dallas",Dallas,144.9425465,-37.66604279,23270
+225,"Denmark Street at the intersection of Denmark Street and Barkers Road, Kew",Kew,145.0279346,-37.81353357,21110
+226,"Punt Road at the intersection of Punt Road and High Street, Prahran",Prahran,144.9842629,-37.85055015,26350
+227,"Pascoe Vale Road at the intersection of Pascoe Vale Road and Reservoir Drive, Coolaroo",Coolaroo,144.929,-37.64362055,23270
+228,"Ballarat Road at the intersection of Ballarat Road and Ashley Street, Maidstone",Maidstone,144.8655953,-37.78154287,24330
+229,"Glenferrie Road at the intersection of Glenferrie Road and Burwood Road, Hawthorn",Hawthorn,145.0352812,-37.82274311,21110
+230,"CityLink, Domain Tunnel, Southbank, approximately 1195 after tunnel entrance, Melbourne",CityLink Domain Tunnel Melbourne,144.9711657,-37.8251414,24600
+231,"Hotham Street at the intersection of Hotham Street and Balaclava Road, St Kilda East",St Kilda East,144.9993181,-37.869411,25900
+232,"South Gippsland Highway at the intersection of South Gippsland Highway and Thompsons Road, Cranbourne North",Cranbourne North,145.2764279,-38.08208573,21610
+233,"CityLink, Domain Tunnel approximately 725m after tunnel entrance, Melbourne",CityLink Domain Tunnel Melbourne,144.977088,-37.8255482,24600
+234,"Lincoln Causeway at the intersection of Lincoln Causeway and Hume Highway ramp, Wodonga",Wodonga,146.8938696,-36.11026441,27170
+235,"At the intersection of Thompson Road and Separation Street, Bell Park",Bell Park,144.343338,-38.110911,22750
+236,"Ballarat Road at the intersection of Ballarat Road and Churchill Avenue, Maidstone",Maidstone,144.8691049,-37.78297484,24330
+237,"Kooyong Road at the intersection of Kooyong Road and Dandenong Road, Armadale",Armadale,145.019342,-37.862464,26350
+238,"Canterbury Road at the intersection of Canterbury Road and Station Street, Box Hill",Box Hill,145.1216698,-37.82868797,26980
+239,"Nepean Highway at the intersection of Nepean Highway and Warrigal Road, Mentone",Mentone,145.071153,-37.98186831,23430
+240,"Princes Highway at the intersection of Princes Highway and Belgrave Road, Malvern East",Malvern East,145.0673202,-37.88462209,26350
+241,"At the intersection of Nepean Highway and Centre Road, Brighton East",Brighton East,145.017901,-37.916079,20910
+242,"Punt Road at the intersection of Punt Road and Commercial Road, Melbourne",Melbourne,144.9849549,-37.84581435,24600
+243,"Blackburn Road at the intersection of Blackburn Road and Burwood Highway, Burwood East",Burwood East,145.1520961,-37.85239324,26980
+244,"Mont Albert Road at the intersection of Mont Albert Road and Union Road, Surrey Hills",Surrey Hills,145.0981884,-37.82041567,21110
+245,"Mahoneys Road at the intersection of Mahoneys Road and High Street, Thomastown",Thomastown,145.0111735,-37.69485325,21890
+246,"Whitehorse Road at the intersection of Whitehorse Road and Surrey Road, Blackburn",Blackburn,145.1560771,-37.81767499,26980
+247,"Kings Road at the intersection of Kings Road and Melton Highway, Taylors Lakes",Taylors Lakes,144.781099,-37.69755286,21180
+248,"The Boulevard at the intersection of The Boulevard and Melbourne Road, Norlane",Norlane,144.3547457,-38.09874997,22750
+249,"Midland Highway, Eastbound at Bagshot level crossing 40m west of Peatlings Road, Bagshot",Midland Highway Bagshot Eastbound,144.40449,-36.65400741,22620
+250,"Midland Highway, Westbound at Bagshot level crossing 40m west of Peatlings Road, Bagshot",Midland Highway Bagshot Westbound,144.4042486,-36.65394715,22620
+251,"Sturt Street at the intersection of Sturt Street and Gillies Street, Lake Gardens",Lake Gardens,143.8187385,-37.55563943,20570
+252,"At the intersection of Pascoe Vale Road and Peck Avenue, Strathmore",Strathmore,144.923851,-37.730116,25060
+253,"Hume Freeway, Southbound 60m south of O'Herns Road, Epping",Hume Freeway Epping,144.9934548,-37.6347498,27070
+254,"Princes Freeway, Forsyth Road Bridge, Geelong Bound, Point Cook",Princes Freeway Point Cook,144.7367513,-37.87354918,27260
+255,"Princes Freeway, Point Wilson Road Bridge, Melbourne Bound, Little River",Princes Freeway Little River,144.5333219,-37.98186408,22750
+256,"Foster Street at the intersection of Foster Street and McCrae Street, Dandenong",Dandenong,145.2182078,-37.98858249,22670
+257,"At the intersection of Narre Warren North Road and Ernst Wanke Road, Narre Warren",Narre Warren,145.312598,-37.996825,21610
+258,"High Street at the intersection of High Street and Don Street, Bendigo",Bendigo,144.2703152,-36.76350418,22620
+259,"Centre Road at the intersection of Centre Road and Warrigal Road, Bentleigh East",Bentleigh East,145.0823084,-37.92394786,22310
+260,"Ogilvie Avenue at the intersection of Ogilvie Avenue and High Street, Echuca",Echuca,144.7510636,-36.1400625,21370
+261,"At the intersection of King Street and La Trobe Street, West Melbourne",West Melbourne,144.953907,-37.812296,24600
+262,"Elizabeth Street at the intersection of Elizabeth Street and La Trobe Street, Melbourne",Melbourne,144.9613595,-37.81019505,24600
+263,"Princes Highway at the intersection of Princes Highway and Pioneer Road, Grovedale",Grovedale,144.3188336,-38.19679856,22750
+264,"Princes Highway at the intersection of Princes Highway and Gladstone Road, Dandenong",Dandenong,145.2034315,-37.97506472,22670
+265,"Sydney Road at the intersection of Sydney Road and Barry Road, Campbellfield",Campbellfield,144.9549142,-37.66708103,23270
+266,"Western Ring Road, Northbound Boundary Road South Side Gantry, Laverton North",Western Ring Road Laverton North,144.8092568,-37.8193531,27260
+267,"Dandenong Road at the intersection of Dandenong Road and Chapel Street, St Kilda",St Kilda,144.992111,-37.8575008,26350
+268,"Dorset Road at the intersection of Dorset Road and Canterbury Road, Bayswater North",Bayswater North,145.2876207,-37.82583636,24410
+269,"Barkly Street at the intersection of Barkly Street and Carlisle Street, St Kilda",St Kilda,144.9812749,-37.86709658,25900
+270,"Ringwood Street at the intersection of Ringwood Street and Maroondah Highway, Ringwood",Ringwood,145.2274078,-37.81561331,24410
+271,"At the intersection of Maroondah Highway and Mount Dandenong Road, Ringwood",Ringwood,145.237836,-37.810925,24410
+272,"Alma Road at the intersection of Alma Road and Chapel Street, St Kilda",St Kilda,144.99147,-37.86142058,25900
+273,"Flinders Street at the intersection of Flinders Street and William Street, Melbourne",Melbourne,144.9602571,-37.81961212,24600
+274,"At the intersection of Canterbury Road and Mitcham Road, Vermont",Vermont,145.195165,-37.836017,26980
+275,"At the intersection of Maroondah Highway and Ringwood Bypass, Ringwood",Ringwood,145.237042,-37.811215,24410
+276,"Stud Road at the intersection of Stud Road and Ferntree Gully Road, Scoresby",Scoresby,145.2331223,-37.8993772,23670
+277,"Nicholson Street at the intersection of Nicholson Street and Princes Street, Carlton",Carlton,144.975433,-37.793332,24600
+278,"Harp Road at the intersection of Harp Road and Burke Road, Kew East",Kew East,145.0623769,-37.80075188,21110
+279,"Springvale Road at the intersection of Springvale Road and Wellington Road, Mulgrave",Mulgrave,145.1586199,-37.91879994,24970
+280,"Ashley Street at the intersection of Ashley Street and Churchill Avenue, Maidstone",Maidstone,144.8644955,-37.78645025,24330
+281,"Bell Street at the intersection of Bell Street and Plenty Road, Preston",Preston,145.0063361,-37.74566562,21890
+282,"Canterbury Road at the intersection of Canterbury Road and Colchester Road, Kilsyth South",Kilsyth South,145.3043926,-37.82158417,24410
+283,"Hawthorn Road at the intersection of Hawthorn Road and Inkerman Road, Caulfield North",Caulfield North,145.0253382,-37.86952418,22310
+284,"Maroondah Highway at the intersection of Maroondah Highway and Springvale Road, Nunawading",Nunawading,145.1762661,-37.8184865,26980
+285,"Hoddle Street at the intersection of Hoddle Street and Victoria Parade, East Melbourne",East Melbourne,144.99117,-37.810066,24600
+286,"Nicholson Street at the intersection of Nicholson Street and Victoria Parade, East Melbourne",East Melbourne,144.9730338,-37.8082137,24600
